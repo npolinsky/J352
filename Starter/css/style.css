@@ -1,0 +1,14 @@
+body {
+  background-color:#ffffff;
+}
+h1{color: #ff0000}
+h2{color:#213172}
+
+p{color:#966710}
+
+.leadGraph{background-color: #000000;color: #ffffff}
+
+.leadphoto {margin-right:20px;}
+
+a {color: #999999; text-decoration: none;}
+a:hover{color: #666666; text-decoration: underline;}
