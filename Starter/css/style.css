@@ -1,10 +1,14 @@
 body {
   background-color:#ffffff;
 }
-h1{color: #ff0000}
-h2{color:#213172}
+h1{color: #ff0000; 
+  font-family: "Montserrat", sans-serif;}
 
-p{color:#966710}
+h2{color:#213172;
+font-family: "Montserrat", sans-serif;}
+
+p{color:#966710;
+font-family: "Roboto", sans-serif;}
 
 .leadGraph{background-color: #000000;color: #ffffff}
 
@@ -12,3 +16,28 @@ p{color:#966710}
 
 a {color: #999999; text-decoration: none;}
 a:hover{color: #666666; text-decoration: underline;}
+
+.headerBox{
+background-color: #999999;
+text-align: center;
+padding: 20px;
+}
+
+
+
+.montserrat-<uniquifier> {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+.roboto-<uniquifier> {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
