@@ -1,0 +1,82 @@
+
+
+body{
+	font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.header {
+	font-family: "Racing Sans One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.headerbox{
+	background-color: #ffffff;
+	color: #000000;
+	ont-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+	
+}
+
+.picturebox {
+	background-color: #ffffff;
+	color: #000000;
+	text-align: center;
+	font-size: 50;
+
+	}
+.textbox{
+	background-color: #D3D3D3;
+color: #000000;
+text-align: left;
+}
+
+
+.boxgray{
+	background-color: #D3D3D3;
+	color: #000000;
+	text-align:center;
+}
+
+.
+
+.boxred {
+	background-color: #013369;
+	color: #ffffff;
+}
+
+.bottombox{
+	background-color: #65D1ED;
+	color: #000000;
+}
+
+.footerbox {
+		background-color: #013369;
+	color: #ffffff;
+	text-align: center;
+
+}
+
+.jermodcaption{
+	font-size: 10px;
+	padding-top: 10px;
+}
+
+.sadiqcaption{
+	font-size:10px;
+	text-align:center;
+}
+
+
+
+
+
