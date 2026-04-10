@@ -1,0 +1,27 @@
+.boxgrey{
+	background-color: #808080;
+	margin-top: 20px;
+	margin-bottom:20px;
+
+}
+
+.juxtapose{
+	margin-top: 20px;
+}
+
+.headerbox {
+border-bottom: 2px solid black;
+
+}
+
+.headertext{
+  font-family: "Alfa Slab One", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.headerboxtwo{
+padding-top: 20px;
+
+}
