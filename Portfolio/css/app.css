@@ -1,0 +1,99 @@
+
+
+.headerfont {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-size: 80px;
+  font-weight: <700>;
+  font-style: normal;
+  margin-left: 30px;
+  border-bottom: 5px solid black;
+  margin-right:40px;
+  background: #6096BA;
+}
+
+.picture {
+	height: 400px;
+	width: 400px;
+	text-align: left;
+	margin-left: 30px;
+	margin-top: 60px;
+}
+
+.contact{
+	margin-left: 90px;
+	margin-top: 20px;
+}
+
+.aboutme {
+	font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-size: 40px;
+  font-weight: <700>;
+  font-style: normal;
+  border-bottom: 3px solid black;
+}
+
+.aboutbody{
+	font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-size: 15px;
+  font-weight: <700>;
+  font-style: normal;
+  border-bottom: 3px solid black;
+
+}
+
+.resumeheader {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: <700>;
+  font-style: normal;
+  margin-left: 30px;
+  margin-right:40px;
+  background: #6096BA;
+  margin-top:15px;
+  text-align: center;
+  border-bottom:3px solid black;
+}
+
+.resume {
+	  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: <700>;
+  font-style: normal;
+  margin-left: 30px;
+  margin-right:40px;
+
+  text-align: center;
+
+}
+
+.View {
+  text-align: center;
+  margin-left: 40px;
+  font-size: 45px;
+  margin-top: 25px;
+
+}
+
+.Plus {
+  text-align: center;
+  margin-top:50px;
+  margin-left: 75px;
+}
+
+.WMUC{
+ text-align: center;
+ margin-left: 10px;
+ 
+}
+
+.MBN {
+  margin-left: 10px;
+}
+
+.RSR {
+  text-align: center;
+  margin-left:80px;
+}

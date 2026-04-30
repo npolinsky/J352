@@ -1,0 +1,22 @@
+
+
+.headerfont {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-size: 80px;
+  font-weight: <700>;
+  font-style: normal;
+  border-bottom: 5px solid black;
+  background: #6096BA;
+  text-align: center;
+}
+
+.Sideline
+{
+text-align: center;
+}
+
+  .Bottom {
+    text-align: center;
+    margin-top: 175px;
+  }
